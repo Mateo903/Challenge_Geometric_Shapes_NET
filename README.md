@@ -7,7 +7,7 @@ El enfoque que le trate de dar es el de implementar las ventajas de la POO como 
 Para eso decidi hacer una refactorizacion completa del proyecto, incluyendo clases principales y unit test.
 
 ## Consigna
-[Ir a la consigna del problema planteado](/Readme.md)
+[Ir a la consigna del problema planteado](/Consigna.md)
 
 ### Comentarios
 * Por momentos no sabía que tanto apegarme al código original y que tanto dar riendas sueltas a mi implementación.
